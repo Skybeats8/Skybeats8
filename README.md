@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Skybeats8
+- 👋 Hi, I’m @Skybeats
 - 🌱 I’m currently learning cpp
 - 📫 How to reach me kr4822460@gmail.com 
 <!---
